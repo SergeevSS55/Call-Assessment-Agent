@@ -10,6 +10,7 @@
  - venv\Scripts\activate
 3. Установите зависимости:
  - pip install -r requirements.txt
+
 4.Запустите приложение:
  - streamlit run app.py
 
