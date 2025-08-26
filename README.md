@@ -20,6 +20,6 @@
  - Улучшил промпты: Составил бы детальные, многоуровневые промпты для более качественного анализа.
  - Добавил историю: Реализовал бы сохранение истории запросов и результатов.
 
-![image](https://github.com/SergeevSS55/Call-Assessment-Agent/blob/main/Img/2025-08-26_18-14-30.png
+![Демонстрация работы Call Analyzer Agent](Img/2025-08-26_18-18-00.pngf)
 ![image](https://github.com/SergeevSS55/Call-Assessment-Agent/blob/main/Img/2025-08-26_18-18-00.png
 ![image](https://github.com/SergeevSS55/Call-Assessment-Agent/blob/main/Img/2025-08-26_18-17-14.png
